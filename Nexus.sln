@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nexus", "Nexus\Nexus.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphaSQL", "AlphaSQL\AlphaSQL.csproj", "{B7D2D905-CB6A-4700-B0F0-289441F2BF9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calendar", "..\Calendar\Calendar.csproj", "{F1B60EDD-6590-47BD-91C2-94FDEDD2FE19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calendar", "Calendar\Calendar.csproj", "{F1B60EDD-6590-47BD-91C2-94FDEDD2FE19}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar.Tests", "Calendar.Tests\Calendar.Tests.csproj", "{95E414C3-5C9B-4238-890B-53765A2FEFCE}"
 EndProject
